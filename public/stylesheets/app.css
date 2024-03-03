@@ -1,0 +1,32 @@
+header {
+    background-color: #09D1F5;
+    color: #531d2b;
+  }
+
+
+  body {
+    background-color: #e8ebeb;
+    font-family: "Madimi One", sans-serif;
+  }
+
+  
+  main {
+    background-color: #fffdfc;
+    padding: 16px;
+  }
+  
+  
+  .finstagram-post {
+    margin-bottom: 48px;
+  }
+  
+  .finstagram-post .user-info img {
+    border-radius: 30%;
+  }
+
+  a.photo{
+    transition: padding 0.5s;
+  }
+  a.photo:hover{
+    padding: 10px;
+  }
